@@ -47,11 +47,3 @@
 .react-dadata__suggestion:hover {
   background-color: #FFF9F0;
 }
-
-.react-dadata mark {
-  background: none;
-}
-
-.react-dadata--highlighted {
-  color: #E5841C;
-}
